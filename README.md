@@ -26,10 +26,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/endermanmasterkarakus/endermanmasterkarakus/output/snake.svg" alt="Snake animation" />
+<h2 align="left"></h2>
 
 ###
 
-<h2 align="left"></h2>
+<div align="center">
+  <a href="https://open.spotify.com/user/endermanmasterkarakus">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=endermanmasterkarakus&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
